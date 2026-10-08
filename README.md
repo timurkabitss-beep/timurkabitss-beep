@@ -1,6 +1,6 @@
 # 👋 Hi, I am Timur!
 
-**Серверный и мобильный разработчик **
+**Backend and mobile developer**
 
 ---
 
